@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shakilops" target="blank"><img src="https://img.shields.io/twitter/follow/shakilops?logo=twitter&style=for-the-badge" alt="shakilops" /></a> </p>
 
-- 🔭 I’m currently working on **Online Food Ordering App**
+- 🔭 I’m currently working on **Booking App**
 
 - 🌱 I’m currently learning **Mobile App Development**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **shakildo.7887@gmail.com**
 
-- ⚡ Fun fact **Traveller**
+- ⚡ Fun fact **Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

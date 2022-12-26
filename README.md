@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [www.shakilops.netlify.app](www.shakilops.netlify.app)
 
-- 💬 Ask me about **OOP & Functional Programming**
+- 💬 Ask me about **How to start your jouney as a MERN developer**
 
 - 📫 How to reach me **shakildo.7887@gmail.com**
 
